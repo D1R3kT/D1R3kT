@@ -9,4 +9,4 @@ I work at HRlink as a Project Engineer. I am 25 years old.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=D1R3kT&show_icons=true&include_all_commits=true&custom_title=Github%20Stats&count_private=true&line_height=20&include_all_commits=true&bg_color=00000000&text_color=777)
 
 ***
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/40397740/187086679-84d7cd96-4311-4454-b3c7-f44b47a2477c.svg)
+![github-contribution-grid-snake]([https://user-images.githubusercontent.com/40397740/187086679-84d7cd96-4311-4454-b3c7-f44b47a2477c.svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=D1R3kT))
