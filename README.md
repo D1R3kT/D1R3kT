@@ -7,13 +7,3 @@ I work at HRlink as a Project Engineer. I am 25 years old.
 
 ***
 ![Github stats](https://github-readme-stats.vercel.app/api?username=D1R3kT&show_icons=true&include_all_commits=true&custom_title=Github%20Stats&count_private=true&line_height=20&include_all_commits=true&bg_color=00000000&text_color=777)
-
-***
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.D1R3kT }}
-
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
